@@ -15,9 +15,9 @@ Under the hood: a three.js studio, a deterministic motion compiler that bakes ev
 
 **Open source**
 
-- [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex): maintainer, [75 merged PRs](https://github.com/Yeachan-Heo/oh-my-codex/pulls?q=is%3Apr+author%3AHaD0Yun+is%3Amerged). Hooks, agent teams, HUDs for Codex.
-- [GoPeak](https://github.com/HaD0Yun/Doyunha-Gopeak): MCP server for Godot Engine. GDScript LSP, DAP debugger, 95+ tools.
-- [122 PRs merged](https://github.com/search?q=author%3AHaD0Yun+type%3Apr+is%3Amerged+-user%3AHaD0Yun&type=pullrequests) in other people's repos, including gajae-code, AutoRAG and oh-my-claudecode.
+- [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex): maintainer. Hooks, agent teams, HUDs for Codex.
+- [GoPeak](https://github.com/HaD0Yun/Doyunha-Gopeak): MCP server for Godot Engine. GDScript LSP, DAP debugger.
+- [codex-app-in-linux](https://github.com/HaD0Yun/codex-app-in-linux): Codex desktop app running on Linux.
 
 </td>
 </tr>
